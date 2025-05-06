@@ -15,4 +15,4 @@ Console.WriteLine("Hello Bro 👋");
 > [!WARNING]
 **Connect with me:**
 - [Instagram](https://www.instagram.com/geronimo_ds/)
-- [LinkedIn](https://www.linkedin.com/in/geronimo-daniel-santiny-41b909291/)
+- [LinkedIn](https://www.linkedin.com/in/geronimo-daniel-santiny/)

@@ -1,11 +1,19 @@
-console.writeline("Hello Bro");
+Console.WriteLine("Hello Bro 👋");
 
-> _[!IMPORTANT]
-.Languages and Tools:
-  C#
-  C++
-  Java
-  SQLServer/MySQL
-  Php
+> [!IMPORTANT]
+**Languages and Tools:**
+- 🧠 C#
+- 💻 C++
+- ☕ Java
+- 🛢️ SQL Server / MySQL
+- 🌐 PHP
 
+> [!NOTE]
+**Currently Learning:**
+- API's Web Develops
+- Java
 
+> [!WARNING]
+**Connect with me:**
+- [Instagram](https://www.instagram.com/geronimo_ds/)
+- [LinkedIn](https://www.linkedin.com/in/geronimo-daniel-santiny-41b909291/)

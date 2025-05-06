@@ -4,7 +4,6 @@ Console.WriteLine("Hello Bro 👋");
 **Languages and Tools:**
 - 🧠 C#
 - 💻 C++
-- ☕ Java
 - 🛢️ SQL Server / MySQL
 - 🌐 PHP
 
